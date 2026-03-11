@@ -3,8 +3,12 @@ import Card from "./Card";
 const Cardrow = () => {
   return (
     <>
-      <Card />
-      Cardrow
+      <div className="d-flex">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     </>
   );
 };
