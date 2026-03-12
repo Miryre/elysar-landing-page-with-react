@@ -5,18 +5,18 @@ const Main = () => {
   return (
     <>
       <div className="row">
-        <div className="col-2"></div>
-        <div className="col-8">
+        <div className="col-1"></div>
+        <div className="col-10">
           <Hero />
         </div>
-        <div className="col-2"></div>
+        <div className="col-1"></div>
       </div>
       <div className="row">
-        <div className="col-2"></div>
-        <div className="col-8">
+        <div className="col-1"></div>
+        <div className="col-10">
           <Cardrow />
         </div>
-        <div className="col-2"></div>
+        <div className="col-1"></div>
       </div>
     </>
   );
