@@ -3,7 +3,7 @@ import Card from "./Card";
 const Cardrow = () => {
   return (
     <>
-      <div className="d-flex">
+      <div className="d-flex ">
         <Card />
         <Card />
         <Card />

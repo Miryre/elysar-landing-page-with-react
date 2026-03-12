@@ -1,7 +1,7 @@
 const Card = () => {
   return (
     <>
-      <div className="card mx-2 my-2" style={{ width: "18rem" }}>
+      <div className="card mt-3 mb-4 mx-2" style={{ width: "18rem" }}>
         <img
           src="https://picsum.photos/200"
           className="card-img-top"
