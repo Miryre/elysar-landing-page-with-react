@@ -14,7 +14,7 @@ const Card = () => {
             bulk of the card’s content.
           </p>
           <a href="#" className="btn btn-primary">
-            Go somewhere
+            Find Out More
           </a>
         </div>
       </div>
